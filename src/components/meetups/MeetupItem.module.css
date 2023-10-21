@@ -44,3 +44,7 @@
   .actions button:active {
     background-color: #ffe2ed;
   }
+
+  li {
+    list-style: none;
+  }
